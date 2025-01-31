@@ -1,8 +1,6 @@
-<p align="center">
+<p align="left">
   <img src="./assets/pink.png" width="512" />
 </p>
-
-Friendly high performance C-like programming language.
 
 ```pink
 import libc
